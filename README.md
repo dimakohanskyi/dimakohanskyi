@@ -13,6 +13,8 @@
 <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />
 <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo" />
 <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo" />
+<img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo" />
+
 <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
 <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
 <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />
