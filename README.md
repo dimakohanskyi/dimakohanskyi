@@ -4,40 +4,62 @@
 
 🚀 Passionate about building scalable web applications, automating business processes, and creating efficient solutions that make a real impact.
 
+---
+
 ## 🛠️ Tech Stack
 
 ### **Languages & Frameworks**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />
+<img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo" />
+<img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo" />
+<img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
+<img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
+<img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />
+<img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" />
+</p>
 
 ### **Databases & Caching**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="postgresql logo" />
+<img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
+<img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
+<img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo" />
+</p>
 
 ### **DevOps & Cloud**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
+<img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazon web services logo" />
+<img src="https://skillicons.dev/icons?i=gcp" height="40" alt="google cloud logo" />
+<img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo" />
+<img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
+<img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
+</p>
 
 ### **Tools & Technologies**
-![Celery](https://img.shields.io/badge/Celery-37B24D?style=for-the-badge&logo=celery&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" alt="linux logo" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="40" alt="telegram logo" />
+<img src="https://raw.githubusercontent.com/celery/celery/main/docs/images/celery_512.png" height="40" alt="celery logo" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dimakohanskyj@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM)
+<p>
+<a href="mailto:dimakohanskyj@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail logo" />
+</a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo" />
+</a>
+<a href="https://t.me/YOUR_TELEGRAM">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="40" alt="telegram logo" />
+</a>
+</p>
 
 ---
 
