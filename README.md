@@ -4,8 +4,6 @@
 
 🚀 Passionate about building scalable web applications, automating business processes, and creating efficient solutions that make a real impact.
 
----
-
 ## 🛠️ Tech Stack
 
 ### **Languages & Frameworks**
