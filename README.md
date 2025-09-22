@@ -50,22 +50,18 @@
 ## 🌐 Connect With Me
 
 <p>
-<a href="mailto:dimakohanskyj@gmail.com">
+<a href="mailto:dimakohanskyi@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail logo" />
 </a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/dima-kohanskyi2001/">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo" />
 </a>
-<a href="https://t.me/YOUR_TELEGRAM">
+<a href="https://t.me/dima_dkt">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="40" alt="telegram logo" />
 </a>
 </p>
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views"/>
-</div>
 
 <div align="center">
   <i>⭐️ From <a href="https://github.com/YOUR_GITHUB_USERNAME">Dmytro Kokhanskyi</a> - Building the future, one commit at a time</i>
