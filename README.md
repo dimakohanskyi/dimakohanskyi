@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dmytro Kokhanskyi
 
-**Full-Stack Developer | Backend Specialist | Python Enthusiast**
+**Full-Stack Developer | Backend Specialist**
 
 🚀 Passionate about building scalable web applications, automating business processes, and creating efficient solutions that make a real impact.
 
@@ -35,104 +35,11 @@
 
 ---
 
-## 🎯 What I Do
-
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Dmytro Kokhanskyi"
-        self.role = "Full-Stack Developer"
-        self.location = "Stavanger, Norway"
-        self.languages = ["Python", "JavaScript", "Norwegian", "English"]
-    
-    def get_skills(self):
-        return {
-            "backend": ["Django", "FastAPI", "PostgreSQL", "Redis", "Celery"],
-            "frontend": ["JavaScript", "React", "HTML/CSS"],
-            "devops": ["Docker", "AWS", "Google Cloud", "Nginx"],
-            "automation": ["Selenium", "Web Scraping", "Telegram Bots"],
-            "specialties": ["API Design", "Process Automation", "System Integration"]
-        }
-    
-    def current_focus(self):
-        return [
-            "Building scalable web applications",
-            "API integrations and automation",
-            "Performance optimization",
-            "Clean, maintainable code"
-        ]
-```
-
----
-
-## 🔥 Areas of Expertise
-
-- **🏗️ Backend Development**: Scalable API design, database optimization, system architecture
-- **⚡ Performance Optimization**: Sub-200ms response times, efficient caching strategies
-- **🔗 API Integrations**: Third-party services, payment gateways, real-time data processing
-- **🤖 Automation**: Business process automation, workflow optimization, data extraction
-- **📱 Full-Stack Solutions**: End-to-end application development from concept to deployment
-- **🛠️ Problem Solving**: Complex technical challenges, system design, performance bottlenecks
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
----
-
-## 🚀 Featured Projects
-
-### 🏦 **Crypto Portfolio Platform**
-- FastAPI backend with real-time WebSocket connections
-- Integrated 8+ cryptocurrency exchanges
-- PostgreSQL + Redis for optimal performance
-- `#FastAPI` `#PostgreSQL` `#WebSockets` `#CryptoAPI`
-
-### 🛒 **E-commerce & Automation Suite**
-- Full-stack Django application
-- Automated dropshipping and inventory management  
-- Payment gateway integrations
-- `#Django` `#JavaScript` `#PostgreSQL` `#PaymentAPI`
-
-### 🤖 **Business Process Automation**
-- Selenium-based workflow automation
-- Telegram bot ecosystem for monitoring
-- Custom API integrations
-- `#Python` `#Selenium` `#TelegramBot` `#Automation`
-
----
-
-## 📈 Key Achievements
-
-- 🎯 Built systems serving **1000+ concurrent users**
-- ⚡ Achieved **sub-200ms API response times**
-- 📊 Improved user engagement by **30%** through gamification
-- 🔧 Reduced processing times by **60%** via automation
-- 🌐 Integrated **20+ external APIs** across various platforms
-- ✅ Maintained **99.5% uptime** for critical systems
-
----
-
 ## 🌐 Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dimakohanskyj@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM)
-
----
-
-## 💡 Fun Facts
-
-- 🌍 Based in beautiful Stavanger, Norway
-- 🔧 Love turning complex problems into simple, elegant solutions  
-- 📚 Always learning new technologies and best practices
-- ⚡ Believe in writing code that's both powerful and readable
-- 🎯 Passionate about automation - if it can be automated, it should be!
 
 ---
 
